@@ -27,7 +27,7 @@
   <div>
 
  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deise-alves-soares-928b801a0/)
-  [![Linkdin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvessoaresdeise97@gmail.com"><img)
+  [![Linkdin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvessoaresdeise97@gmail.com)
  
   ![Snake animation](https://github.com/deisealves/deisealves/blob/output/github-contribution-grid-snake.svg)
   </div>
